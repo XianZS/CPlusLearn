@@ -15,6 +15,9 @@ using namespace std;
 		* count(element)：查询set中存在多少个element元素 
 		* .clear()：清空
 		* empty()：判空 
+	注意事项：
+		* 不存在下标
+		* 元素只读 
 */
 
 set<int> st; 
